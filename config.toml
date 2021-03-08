@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://surya-codes.netlify.app"
 title   = "Surya Vijayaraghavan"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -93,7 +93,7 @@ disableHugoGeneratorInject = false
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
   #
-  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  footerLeft = "Powered by <a href=\"https://gohugo.io\">Hugo</a>"
   footerRight = "Made with &#10084; by Surya</a>"
 
   # Colors for favicons
