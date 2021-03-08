@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://surya-codes.netlify.app/tags/java/</loc>
+    <lastmod>2021-03-08T10:36:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://surya-codes.netlify.app/posts/</loc>
+    <lastmod>2021-03-08T10:36:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://surya-codes.netlify.app/tags/powermock/</loc>
+    <lastmod>2021-03-08T10:36:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://surya-codes.netlify.app/</loc>
+    <lastmod>2021-03-08T10:36:49-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://surya-codes.netlify.app/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://surya-codes.netlify.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://surya-codes.netlify.app/tags/</loc>
+    <lastmod>2021-03-08T10:36:49-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://surya-codes.netlify.app/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://surya-codes.netlify.app/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://surya-codes.netlify.app/posts/2021/03/testing-static-methods/</loc>
+    <lastmod>2021-03-08T10:36:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://surya-codes.netlify.app/tags/til/</loc>
+    <lastmod>2021-03-08T10:36:49-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://surya-codes.netlify.app/about/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
@@ -32,34 +87,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://surya-codes.netlify.app/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://surya-codes.netlify.app/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://surya-codes.netlify.app/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://surya-codes.netlify.app/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://surya-codes.netlify.app/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://surya-codes.netlify.app/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://surya-codes.netlify.app/tags/"
                 />
   </url>
   

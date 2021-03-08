@@ -1,7 +1,7 @@
 ---
-title: "TIL: Testing static methods in Java"
-date: 2021-03-07T21:39:12-08:00
-draft: true
+title: "Testing Static Methods"
+date: 2021-03-08T10:36:49-08:00
+draft: false
 toc: false
 images:
 tags:

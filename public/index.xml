@@ -6,7 +6,19 @@
     <description>Recent content on Surya Vijayaraghavan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://surya-codes.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 08 Mar 2021 10:36:49 -0800</lastBuildDate><atom:link href="https://surya-codes.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Static Methods</title>
+      <link>https://surya-codes.netlify.app/posts/2021/03/testing-static-methods/</link>
+      <pubDate>Mon, 08 Mar 2021 10:36:49 -0800</pubDate>
+      
+      <guid>https://surya-codes.netlify.app/posts/2021/03/testing-static-methods/</guid>
+      <description>TIL: Testing static methods in Java Let’s assume that we have 3 files: PersonUtil.java and People.java and PeopleTest.java.
+If you encounter a situation where you want to test method getName() , you would need to use PowerMock to mock static method getPerson(). Here’s how we implement this.
+Few things to note here: @PrepareForTest should be added to set the list of classes that has to be mocked. In our main test, all we do is mock the PeopleUtil.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://surya-codes.netlify.app/about/</link>
