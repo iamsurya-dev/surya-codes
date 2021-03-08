@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Surya Vijayaraghavan</title>
+    <link>https://surya-codes.netlify.app/</link>
+    <description>Recent content on Surya Vijayaraghavan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Mar 2021 21:39:12 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://surya-codes.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sun, 07 Mar 2021 21:39:12 -0800</pubDate>
+      <title>About</title>
+      <link>https://surya-codes.netlify.app/about/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://surya-codes.netlify.app/about/</guid>
+      <description>I am a Senior Software Engineer passionate about solving technically complex problems while improving the usability and overall performance of products. I am experienced in designing and building robust distributed systems and web services from scratch.
+Software Engineer Skills -
+ Languages: Java, Javascript, AngularJS, Node.js, Python, HTML, CSS, Shell Scripting Frameworks: Kafka, Kafka Streams, Spring, SpringBoot, Gatling, Cucumber, BackboneJS, JQuery, Apache Sling Databases: Apache Druid, OpenTSDB, Prometheus, MySQL, Oracle, Sybase Software: Kubernetes, Docker, Grafana, New Relic, Azure, Jenkins, Git  Outside of work, I usually spend my time listening to podcasts, hiking out and practicing mindfulness.</description>
     </item>
     
   </channel>
