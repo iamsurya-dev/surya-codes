@@ -16,4 +16,4 @@ I am experienced in designing and building robust distributed systems and web se
 * **Databases:** Apache Druid, OpenTSDB, Prometheus, MySQL, Oracle, Sybase 
 * **Software:** Kubernetes, Docker, Grafana, New Relic, Azure, Jenkins, Git
 
-Outside of work, I usually spend my time listening to podcasts, hiking out and practicing mindfulness.
+Outside of work, I usually spend my time listening to podcasts, hiking and practicing mindfulness.
