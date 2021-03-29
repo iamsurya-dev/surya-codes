@@ -1,5 +1,5 @@
 ---
-title: "Testing Static Methods"
+title: "Testing Static Methods in Java"
 date: 2021-03-08T10:36:49-08:00
 draft: false
 toc: false
@@ -9,8 +9,6 @@ tags:
   - powermock
   - java
 ---
-
-## TIL: Testing static methods in Java
 
 Let’s assume that we have 3 files: `PersonUtil.java` and `People.java` and `PeopleTest.java`.
 
